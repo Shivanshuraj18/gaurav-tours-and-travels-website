@@ -1,0 +1,21 @@
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+                url('https://via.placeholder.com/1200x400?text=Gaurav+Tours+%26+Travels+Banner')
+                no-repeat center/cover;
+    height: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 16px;
+}
