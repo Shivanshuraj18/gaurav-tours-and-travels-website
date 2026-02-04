@@ -1,7 +1,11 @@
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-                url('https://via.placeholder.com/1200x400?text=Gaurav+Tours+%26+Travels+Banner')
-                no-repeat center/cover;
+    background: linear-gradient(
+                rgba(0, 0, 0, 0.4), 
+                rgba(0, 0, 0, 0.4)
+              ),
+              url("https://i.ibb.co/7J7T3L8/travel-banner.jpg")
+              no-repeat center/cover;
+
     height: 380px;
     display: flex;
     align-items: center;
